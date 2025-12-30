@@ -9,8 +9,7 @@
 
 ## 🎯 Profil
 
-Testeur logiciel en formation, titulaire d’un **Master Informatique & Sciences Sociales**.  
-Expérience en **développement web et interventions techniques**, avec compétences en **gestion des anomalies** et amélioration de la **qualité logicielle**.
+Testeur logiciel en formation, titulaire d’un **Master Informatique & Sciences Sociales**.Expérience en **développement web et interventions techniques**, avec compétences en **gestion des anomalies** et amélioration de la **qualité logicielle**.
 
 **Compétences clés :**
 - Tests logiciels manuels et automatisés  
@@ -36,6 +35,11 @@ Expérience en **développement web et interventions techniques**, avec compéte
 - Développement front-end en Angular, HTML5, Boosted  
 - Réalisation de tests unitaires avec Jasmine et Karma  
 - Gestion des versions avec Git et travail en méthode Agile  
+ 
+
+---
+
+## 🎓 Formation académique
 
 ### Testeur Logiciel – Formation autodidacte (Udemy)
 **Période :** Depuis septembre 2025  
@@ -43,11 +47,7 @@ Expérience en **développement web et interventions techniques**, avec compéte
 - Apprentissage des méthodes de tests manuels et automatisés  
 - Utilisation de Jira et Zephyr pour la gestion des tests  
 - Introduction aux tests API, tests mobiles, SQL et tests de performance  
-- Notions d’Agile et bonnes pratiques QA  
-
----
-
-## 🎓 Formation académique
+- Notions d’Agile et bonnes pratiques QA 
 
 **Master MIASHS – Informatique & Sciences Sociales**, Université Grenoble Alpes  
 - Programmation, algorithmique, développement logiciel, bases de données  
