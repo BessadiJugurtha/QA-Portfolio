@@ -12,8 +12,9 @@
 Testeur logiciel en formation, titulaire d’un **Master Informatique & Sciences Sociales**.Expérience en **développement web et interventions techniques**, avec compétences en **gestion des anomalies** et amélioration de la **qualité logicielle**.
 
 **Compétences clés :**
-- Tests logiciels manuels et automatisés  
-- Outils : **Jasmine/Karma, Jira, Zephyr, Git, Angular, HTML5, Boosted, SQL**  
+- Tests logiciels manuels  
+- Outils : ** Jira, Zephyr, xray, Git, Postman**
+- Langages & technologies : **JavaScript, HTML5, CSS, Angular, SQL** 
 - Analyse des besoins clients  
 - Rédaction de rapports et documentation technique  
 - Méthode Agile, gestion des anomalies  
