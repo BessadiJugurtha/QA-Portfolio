@@ -2,7 +2,7 @@
 
 **_Défaut identifié_** lors de l'exécution du **test d'authentification standard** avec un **nom d'utilisateur invalide**.  
 
-> Lors de ce test, le système **n'a pas correctement géré** l'entrée invalide, ce qui a généré une erreur inattendue.  
+> Lors de ce test, le système **n'a pas correctement géré** l'entrée invalide, ce qui a généré un message d'erreur inapproprié lors d’une connexion avec nom d’utilisateur invalide.  
 
 ---
 
