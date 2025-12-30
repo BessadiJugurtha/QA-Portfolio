@@ -1,1 +1,1 @@
-**Cliquer sur l’image pour Regarder la vidéo **[![Click for watch video](assets/images/Bug1_Athen_Standard.png)](https://bessadijugurtha.github.io/QA-Portfolio/projects/ouedkniss/assets/videos/bug_message_erreur_Authe_1.mp4)
+Cliquer sur l’image pour Regarder la vidéo[![Click for watch video](assets/images/Bug1_Athen_Standard.png)](https://bessadijugurtha.github.io/QA-Portfolio/projects/ouedkniss/assets/videos/bug_message_erreur_Authe_1.mp4)
