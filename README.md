@@ -24,7 +24,8 @@ Testeur logiciel en formation, titulaire d’un **Master Informatique & Sciences
 ## 💼 Expériences professionnelles
 
 ### Technicien FTTH – Salarié & Auto-Entrepreneur, Conectic
-**Période :** — Déploiement fibre optique (Orange)  
+**Période :** D'octobre 2020 à septembre 2025 France
+- Déploiement fibre optique (Orange)  
 - Installation des équipements réseau des abonnés (Box, décodeur TV, répéteur Wi-Fi…)  
 - Réponses aux questions techniques des abonnés  
 - Réalisation de diagnostics travaux pour orienter les abonnés  
