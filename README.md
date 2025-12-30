@@ -13,7 +13,7 @@ Testeur logiciel en formation, titulaire d’un **Master Informatique & Sciences
 
 **Compétences clés :**
 - Tests logiciels manuels  
-- Outils : ** Jira, Zephyr, xray, Git, Postman**
+- Outils : **Jira, Zephyr, xray, Git, Postman**
 - Langages & technologies : **JavaScript, HTML5, CSS, Angular, SQL** 
 - Analyse des besoins clients  
 - Rédaction de rapports et documentation technique  
