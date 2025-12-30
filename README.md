@@ -24,7 +24,7 @@ Testeur logiciel en formation, titulaire d’un **Master Informatique & Sciences
 ## 💼 Expériences professionnelles
 
 ### Technicien FTTH – Salarié & Auto-Entrepreneur, Conectic
-**Période :** D'octobre 2020 à septembre 2025 France
+**Période :** Octobre 2020 - Septembre 2025, Loire-Atlantique
 - Déploiement fibre optique (Orange)  
 - Installation des équipements réseau des abonnés (Box, décodeur TV, répéteur Wi-Fi…)  
 - Réponses aux questions techniques des abonnés  
