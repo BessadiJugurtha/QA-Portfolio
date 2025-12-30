@@ -39,14 +39,19 @@ L’objectif est de détecter des anomalies dans :
 - Cas de test U1.6 : Tentative de connexion avec un compte non enregistré
 - Cas de test U1.7 : Tentatives multiples de connexion échouées (plus de 3 tentatives)
 
-**Scénario U2 : Connexion utilisateur**
+**Scénario U2 : connexion via Google ou Facebook d'un utilisateur**
+
+**Scénario U3 : Deconnexion d'un utilisatuer**
 - Cas de test U2.1 : Connexion avec identifiants valides  
 - Cas de test U2.2 : Connexion avec mot de passe incorrect  
 - Cas de test U2.3 : Connexion avec email inexistant  
 
-**Scénario U3 : Gestion du profil**
+**Scénario U4 : Inscription d'un utilisateur**
 - Cas de test U3.1 : Modification des informations personnelles  
 - Cas de test U3.2 : Suppression du compte  
+
+**Scénario U5 : Modification du mot de passe**
+
 
 ---
 
