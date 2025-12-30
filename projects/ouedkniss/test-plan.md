@@ -30,9 +30,14 @@ L’objectif est de détecter des anomalies dans :
 
 ### Épique 1 : Gestion des utilisateurs
 
-**Scénario U1 : Création d’un compte utilisateur**
-- Cas de test U1.1 : Création d’un compte particulier avec tous les champs valides  
-- Cas de test U1.2 : Création d’un compte professionnel avec tous les champs valides  
+**Scénario U1 : Connexion Standard d'un utilisateur**
+- Cas de test U1.1 : Vérifier la connexion avec un nom d'utilisateur et mot de passe valides
+- Cas de test U1.2 : Vérifier connexion avec un nom d'utilisateur invalide
+- Cas de test U1.3 : Vérifier connexion avec mot passe invalide
+- Cas de test U1.4 : Laisser le champ nom d'utilisateur vide
+- Cas de test U1.5 : Laisser le champ mot de passe vide
+- Cas de test U1.6 : Tentative de connexion avec un compte non enregistré
+- Cas de test U1.7 : Tentatives multiples de connexion échouées (plus de 3 tentatives)
 
 **Scénario U2 : Connexion utilisateur**
 - Cas de test U2.1 : Connexion avec identifiants valides  
