@@ -2,7 +2,8 @@
 
 **_Défaut identifié_** lors de l'exécution du **test d'authentification standard** avec un **nom d'utilisateur invalide**.  
 
-> Lors de ce test, le système **n'a pas correctement géré** l'entrée invalide, ce qui a généré un message d'erreur inapproprié lors d’une connexion avec nom d’utilisateur invalide.  
+> Lors de ce test, le système **n'a pas correctement géré** l'entrée invalide, ce qui a généré un message d'erreur inapproprié lors d’une connexion avec nom d’utilisateur invalide.
+> Dans la video on peut voir que j'ai lié le bug au cas de test concerné 
 
 ---
 
