@@ -40,15 +40,30 @@ L’objectif est de détecter des anomalies dans :
 - Cas de test U1.7 : Tentatives multiples de connexion échouées (plus de 3 tentatives)
 
 **Scénario U2 : connexion via Google ou Facebook d'un utilisateur**
+- Cas de test U2.1 : Vérifier la connexion avec une adresse mail valides
+- Cas de test U2.2 : Vérifier la connexion avec un compte Facebook  valide
+- Cas de test U2.3 : Annulation de l’authentification Google
+- Cas de test U2.4 : Annulation de l’authentification Facebook
 
 **Scénario U3 : Deconnexion d'un utilisatuer**
-- Cas de test U2.1 : Connexion avec identifiants valides  
-- Cas de test U2.2 : Connexion avec mot de passe incorrect  
-- Cas de test U2.3 : Connexion avec email inexistant  
+- Cas de test U3.1 : Déconnexion via le bouton “Se déconnecter”
+- Cas de test U3.2 : Accès à une page protégée après déconnexion
+- Cas de test U3.3 : Utilisation du bouton “Retour” du navigateur après déconnexion
+- Cas de test U3.4 : Déconnexion après rafraîchissement de la page
+- Cas de test U3.5 : Visibilité du bouton “Se déconnecter”
+- Cas de test U3.6 : Déconnexion après inactivité 
 
 **Scénario U4 : Inscription d'un utilisateur**
-- Cas de test U3.1 : Modification des informations personnelles  
-- Cas de test U3.2 : Suppression du compte  
+- Cas de test U4.1 : Inscription avec des données valides   
+- Cas de test U4.2 : Saisir un nom d'utilsateur invalide
+- Cas de test U4.3 : Sasir mot de passe invalide
+- Cas de test U4.4 : Saisir une adresse mail invalide
+- Cas de test U4.5 : Ne Pas accepter les condition d'utilisation
+- Cas de test U4.6 : Renseigner des données différentes dans les champs « Mot de passe » et « Confirmer le mot de passe »
+- Cas de test U4.7 : Laisser le champs "nom d'utilsateur" vide
+- Cas de test U4.8 : Laisser le champs "mot de passse"  vide
+- Cas de test U4.9 : Laisser le champs "confirmer mot de passe" vide
+- Cas de test U4.10 : Laisser le champs "E-mail" vide 
 
 **Scénario U5 : Modification du mot de passe**
 
