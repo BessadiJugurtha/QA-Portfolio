@@ -65,9 +65,30 @@ L’objectif est de détecter des anomalies dans :
 - Cas de test U4.9 : Laisser le champs "confirmer mot de passe" vide
 - Cas de test U4.10 : Laisser le champs "E-mail" vide 
 
-**Scénario U5 : Modification du mot de passe**
+**Scénario U5 : Réinitialisation du mot de passe (mot de passe oublié)**
+- Cas de test U5.1 : Réinitialisation du mot de passe avec un email valide 
+- Cas de test U5.2 : Réinitialisation avec un lien valide
+- Cas de test U5.3 : Annulation de la réinitialisation du mot de passe
+- Cas de test U5.4 : Réinitialisation du mot de passe avec un email innexistant  
+- Cas de test U5.5 : Lien de réinitialisation expiré
+- Cas de test U5.6 : Nouveau mot de passe non conforme
+- Cas de test U5.7 : Renseigner des données différentes dans les champs « Mot de passe » et « Confirmer le mot de passe »
+- Cas de test U5.8 : laisser le champs "Mot de passe" vide
+- Cas de test U5.9 : laisser le champs "Confirmer" vide
 
-
+**Scénario U6 : Modification du mot de passe**
+- Cas de test U5.1 : Tentative de modification du mot de passe par un utilisateur non connecté
+- Cas de test U5.2 : Modification du mot de passe avec des données valides (ancien mot de passe correct, nouveau mot de passe conforme)
+- Cas de test U5.3 : Saisie d’un ancien mot de passe incorrect
+- Cas de test U5.4 : Saisie d’un nouveau mot de passe identique à l’ancien
+- Cas de test U5.5 : Nouveau mot de passe non conforme aux règles de sécurité
+- Cas de test U5.6 : Renseigner des données différentes dans les champs « Nouveau mot de passe » et « Confirmer le mot de passe »
+- Cas de test U5.7 : Laisser le champ « Ancien mot de passe » vide
+- Cas de test U5.8 : Laisser le champ « Nouveau mot de passe » vide
+- Cas de test U5.9 : Laisser le champ « Confirmer le mot de passe » vide
+- Cas de test U5.10 : Annulation de la modification du mot de passe
+- Cas de test U5.11 : Déconnexion automatique après modification du mot de passe (si règle de sécurité appliquée)
+  
 ---
 
 ### Épique 2 : Gestion des annonces
