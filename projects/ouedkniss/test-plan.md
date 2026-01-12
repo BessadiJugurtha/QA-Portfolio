@@ -42,8 +42,8 @@ L’objectif est de détecter des anomalies dans :
 **Scénario U2 : connexion via Google ou Facebook d'un utilisateur**
 - Cas de test U2.1 : Vérifier la connexion avec une adresse mail valides
 - Cas de test U2.2 : Vérifier la connexion avec un compte Facebook  valide
-- Cas de test U2.3 : Annulation de l’authentification Google
-- Cas de test U2.4 : Annulation de l’authentification Facebook
+- Cas de test U2.3 : Annulation de l'autorisation d'accès Google
+- Cas de test U2.4 : Annulation de l'autorisation d'accès Facebook
 
 **Scénario U3 : Deconnexion d'un utilisatuer**
 - Cas de test U3.1 : Déconnexion via le bouton “Se déconnecter”
